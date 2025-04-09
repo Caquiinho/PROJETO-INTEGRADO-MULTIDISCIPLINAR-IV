@@ -1,0 +1,1009 @@
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.sourcelink.json
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Service.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Service.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Desktop\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.sourcelink.json
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Applications.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Applications.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Applications.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloFornecedor.frmAdicionarFornecedor.resources
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloFornecedor.frmAdicionarFornecedor.resources
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloFornecedor.frmAdicionarFornecedor.resources
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloFornecedor.frmAdicionarFornecedor.resources
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloFornecedor.frmAdicionarFornecedor.resources
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloFornecedor.frmAdicionarFornecedor.resources
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloFornecedor.frmAdicionarFornecedor.resources
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloProduto.frmIncluirProduto.resources
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloProduto.frmAlterarProduto.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloFornecedor.frmAdicionarFornecedor.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloProduto.frmAlterarProduto.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloProduto.frmIncluirProduto.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Library.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloFornecedor.frmAdicionarFornecedor.resources
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloProduto.frmAlterarProduto.resources
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloProduto.frmIncluirProduto.resources
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.exe
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.deps.json
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.runtimeconfig.json
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Presentation.pdb
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Bogus.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Library.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Applications.pdb
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Infrastructure.pdb
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\bin\Debug\net8.0-windows\Domain.pdb
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.AssemblyReference.cache
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmGerenciarCliente.resources
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloCliente.frmIncluirCliente.resources
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloFornecedor.frmAdicionarFornecedor.resources
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmLogin.resources
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloInicial.frmMenu.resources
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmGerenciarPerfil.resources
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloPerfil.frmIncluirPerfil.resources
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloProduto.frmAlterarProduto.resources
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloProduto.frmIncluirProduto.resources
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmGerenciarUsuario.resources
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.ModuloUsuario.frmIncluirUsuario.resources
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.Properties.Resources.resources
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.GenerateResource.cache
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfoInputs.cache
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.AssemblyInfo.cs
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.csproj.CoreCompileInputs.cache
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presenta.BC777DBE.Up2Date
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\refint\Presentation.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.pdb
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\Presentation.genruntimeconfig.cache
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll

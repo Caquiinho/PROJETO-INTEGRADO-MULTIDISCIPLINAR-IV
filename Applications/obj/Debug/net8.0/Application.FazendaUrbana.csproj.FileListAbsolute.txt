@@ -1,0 +1,6 @@
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Application.FazendaUrbana.csproj.AssemblyReference.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Application.FazendaUrbana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Application.FazendaUrbana.AssemblyInfoInputs.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Application.FazendaUrbana.AssemblyInfo.cs
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Application.FazendaUrbana.csproj.CoreCompileInputs.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Application.FazendaUrbana.sourcelink.json

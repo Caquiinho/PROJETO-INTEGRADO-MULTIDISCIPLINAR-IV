@@ -1,0 +1,212 @@
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\bin\Debug\net8.0\Domain.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\bin\Debug\net8.0\Domain.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Util\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

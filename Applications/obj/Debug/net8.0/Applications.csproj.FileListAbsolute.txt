@@ -1,0 +1,222 @@
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\bin\Debug\net8.0\Domain.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\bin\Debug\net8.0\Domain.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Applications.sourcelink.json
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\Public\repositorio\UNIP\POOII\Unip.ProgramacaoOrientadaObjetosII\codigoFonte\ArquiteturaHexagonal\FAZENDA-URBANA\Applications\obj\Debug\net8.0\ref\Applications.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste\Applications\obj\Debug\net8.0\ref\Applications.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\backups trabalho\FAZENDA-URBANA teste backup 23.10\Applications\obj\Debug\net8.0\ref\Applications.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\ref\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\novo projeto\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\ref\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\novo projeto\backup2\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\ref\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\novo projeto\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\ref\Applications.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\BACKUP3\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\ref\Applications.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\bakcup 4\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\ref\Applications.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\ref\Applications.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\kfdakdkas\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\ref\Applications.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.deps.json
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.pdb
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\refint\Applications.dll
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.pdb
+C:\Users\Caco\Desktop\trabalho versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\ref\Applications.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.deps.json
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Applications.pdb
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Domain.pdb
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\bin\Debug\net8.0\Infrastructure.pdb
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.AssemblyReference.cache
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfoInputs.cache
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.AssemblyInfo.cs
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.csproj.CoreCompileInputs.cache
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applicat.B7D1A39B.Up2Date
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\refint\Applications.dll
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\Applications.pdb
+D:\Arquivos importantes\faculdade\trabalho 4 versão definitiva\bakcup 4 - Copia\FAZENDA-URBANA teste backup 24.10\Applications\obj\Debug\net8.0\ref\Applications.dll

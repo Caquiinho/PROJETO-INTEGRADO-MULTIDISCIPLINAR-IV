@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ModuloFornecedor\" />
+    <Folder Include="ModuloProduto\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cpf.Cnpj" Version="1.0.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Applications\ApplicationFazendaUrbana.csproj" />
+    <ProjectReference Include="..\Infrastructure\InfrastructureFazendaUrbana.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="ModuloPerfil\frmIncluirPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>
